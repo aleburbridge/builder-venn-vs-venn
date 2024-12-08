@@ -1,0 +1,2 @@
+Forum post on fetching data from database to bind to dynamic data on pages: https://forum.builder.io/t/dynamic-pages-with-data-from-my-database-api/4036/5
+Flow is homepage -> Waiting Room (fill in prompts) -> Game 
